@@ -4,9 +4,9 @@
 
 #### KH정보교육원에서 공부하고 있습니다.
 ##### 지금 배우고 있는 것
-📒 JAVA, JS <br>
+📒 JAVA<br>
 📗 OracleDB <br>
-📘 HTML/CSS
+📘 HTML/CSS, JS<br>
+📙 React <br>
 
-##### 앞으로 배울 것
-📙 React
+
